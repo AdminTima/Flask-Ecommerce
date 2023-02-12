@@ -1,0 +1,13 @@
+.env
+.idea/**
+out/
+*.iml
+modules.xml
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+instance/
+/venv/
+*.ipr
+images/
